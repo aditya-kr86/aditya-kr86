@@ -31,7 +31,7 @@
 - 📫 **Email**: adityakumargupta082003@gmail.com
 
 ### 🎯 Goals
-- 💻 Secure a Software Developer Engineer (SDE-1) role in a MAANG company.
+- 💻 Secure a Software Developer Engineer role in a MAANG company.
 - 📈 Complete the **100 Days of Python** challenge and share daily learnings on social media.
 - 🏆 Build impactful projects and gain more experience through hackathons and internships.
 - 🌍 Learn a new foreign language (currently choosing between Spanish, French, German, Chinese, and Japanese).
