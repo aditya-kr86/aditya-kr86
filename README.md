@@ -28,7 +28,7 @@
 🌎 [Portfolio Website](https://alphabytebridgers.com)
 --->
 - 💬 [LinkedIn](https://www.linkedin.com/in/aditya-kr86)
-- 📫 **Email**: adityakumargupta082003@gmail.com
+- 📫 **Email**: aditya_kumar_gupta@yahoo.com
 
 ### 🎯 Goals
 - 💻 Secure a Software Developer Engineer role in a MAANG company.
