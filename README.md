@@ -1,49 +1,63 @@
-# 👋 Hello, I'm Aditya! 
+# 💻 Aditya Kumar  
+🚀 Aspiring Software Developer | Python | AI/ML | Web Dev | Automation  
+![GitHub Contributions](https://github.com/user-attachments/assets/b6fbf4e1-c148-4440-87f9-03bb8570cf46)  
 
-### 👨‍💻 About Me
-- 🎓 Computer Science Engineering Student at **Gaya College of Engineering** (Batch of 2027).
-- 💻 Aspiring Software Developer with a passion for **Python**, **Flask**, **Web Development**, and **Data Science**.
-- 🔭 Currently exploring **Flask** for Backend Development and **JavaScript** for Frontend Integration.
-- 🌱 Actively learning new programming languages and frameworks to enhance my development skills.
-- 💡 Interested in Automation, Web Scraping, Data Analysis, and creating impactful tech solutions.
-- 💼 Participating in the **Smart India Hackathon** and building projects with a focus on solving real-world problems.
+## 🚀 About Me  
+👋 Hi, I'm **Aditya**, a passionate **Software Developer** with expertise in:  
+- **Python, C, C++** | **Data Structures & Algorithms**  
+- **Machine Learning, Deep Learning, NLP**  
+- **Web Development (Flask, REST APIs, SQL, HTML, CSS, Bootstrap)**  
+- **Automation & Web Scraping (Selenium, BeautifulSoup, Requests)**  
+- **MLOps & Deployment (Docker, AWS, Azure, CI/CD, GitHub Actions)**  
 
-### 💼 Projects
-- **DPP Tracker**: A web app for daily problem practice tracking.
-- **Movie Database**: A Flask-based project for managing a collection of movies.
-- **Scholarship Disbursement System**: An ongoing SIH project for streamlining digital scholarship distribution.
-- **Telegram Motivational Bot**: A Python bot integrated with the Google Gemini API for daily quotes.
+📚 **Currently learning:** **Generative AI with LangChain & HuggingFace**  
+🎯 **Career Goal:** Become a **Software Developer** at a top tech company  
 
-### 🚀 Skills
-- **Programming Languages**: Python, C, C++
-- **Web Development**: Flask, HTML, CSS, Bootstrap
-- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn
-- **Automation & Web Scraping**: Selenium, Beautiful Soup, Requests
-- **Database Management**: SQL, SQLite, PostgreSQL
-- **Version Control**: Git, GitHub
-- **Deployment**: Render, Heroku
+---
 
-### 🌐 Connect with Me
-<!--- 
-🌎 [Portfolio Website](https://alphabytebridgers.com)
---->
-- 💬 [LinkedIn](https://www.linkedin.com/in/aditya-kr86)
-- 📫 **Email**: aditya_kumar_gupta@yahoo.com
+## 📊 GitHub Stats  
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-kr86&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-kr86&layout=compact&theme=tokyonight)  
 
-### 🎯 Goals
-- 💻 Secure a Software Developer Engineer role in a MAANG company.
-- 📈 Complete the **100 Days of Python** challenge and share daily learnings on social media.
-- 🏆 Build impactful projects and gain more experience through hackathons and internships.
-- 🌍 Learn a new foreign language (currently choosing between Spanish, French, German, Chinese, and Japanese).
+---
 
-### ⚡ Fun Fact
-- 🎨 I recently started **oil pastel painting** and love sharing my progress!
-- 🎵 Coding with music is my favorite way to boost productivity.
+## 🔥 Skills  
+### **Programming & CS Fundamentals**  
+✔ Python, C, C++ | DSA | OOP | SQL  
 
-**Thanks for visiting my profile! Feel free to check out my projects and connect with me. Let's build something amazing together!** 🚀
+### **Web Development**  
+✔ Flask | REST APIs | PostgreSQL | HTML | CSS | Bootstrap  
 
+### **Machine Learning & AI**  
+✔ Scikit-learn | TensorFlow | Pandas | NumPy | Seaborn | NLP  
 
-<!---
-aditya-kr86/aditya-kr86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### **Automation & Web Scraping**  
+✔ Selenium | BeautifulSoup | Requests  
+
+### **DevOps & Deployment**  
+✔ Docker | GitHub Actions | AWS | Azure | MLOps  
+
+---
+
+## 🏆 Certifications  
+🎖 **100 Days of Code: The Complete Python Pro Bootcamp** – Udemy  
+🎖 **Complete Data Science, ML, DL, NLP Bootcamp** – Udemy  
+🎖 **Public Speaking, Time Management** – Infosys Springboard  
+🎖 **Introduction to Cybersecurity** – Tech Mahindra  
+
+---
+
+## 📌 Featured Projects  
+🔹 **AI Chatbot** – NLP-powered chatbot with Flask & Hugging Face  
+🔹 **Job Scraper Bot** – Automated job search with Selenium & BeautifulSoup  
+🔹 **MLOps Pipeline** – End-to-end ML deployment using Docker & AWS  
+🔹 **E-commerce Website** – Full-stack web app with Flask & PostgreSQL  
+
+---
+
+## 🌍 Connect With Me  
+🔗 **LinkedIn:** [linkedin.com/in/aditya-kr86](https://linkedin.com/in/aditya-kr86)  
+🔗 **GitHub:** [github.com/aditya-kr86](https://github.com/aditya-kr86)  
+🔗 **Portfolio:** [aditya-kr86.in](https://aditya-kr86.in)  
+
+---
