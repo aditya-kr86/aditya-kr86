@@ -1,6 +1,7 @@
 # 💻 Aditya Kumar  
 🚀 Aspiring Software Developer | Python | AI/ML | Web Dev | Automation  
-![GitHub Contributions](https://github.com/user-attachments/assets/b6fbf4e1-c148-4440-87f9-03bb8570cf46)  
+![GitHub Contributions](https://github.com/user-attachments/assets/629aae30-377f-44d6-a757-ab5dab08ad84)
+
 
 ## 🚀 About Me  
 👋 Hi, I'm **Aditya**, a passionate **Software Developer** with expertise in:  
