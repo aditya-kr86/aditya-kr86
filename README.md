@@ -59,6 +59,6 @@
 ## 🌍 Connect With Me  
 🔗 **LinkedIn:** [linkedin.com/in/aditya-kr86](https://linkedin.com/in/aditya-kr86)  
 🔗 **GitHub:** [github.com/aditya-kr86](https://github.com/aditya-kr86)  
-🔗 **Portfolio:** [aditya-kr86.in](https://aditya-kr86.in)  
+🔗 **Portfolio:** [adityakr.me](https://adityakr.me)  
 
 ---
