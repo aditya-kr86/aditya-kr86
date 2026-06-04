@@ -1,64 +1,140 @@
-# 💻 Aditya Kumar  
-🚀 Aspiring Software Developer | Python | AI/ML | Web Dev | Automation  
-![GitHub Contributions](https://github.com/user-attachments/assets/629aae30-377f-44d6-a757-ab5dab08ad84)
+# 💻 Aditya Kumar
 
-
-## 🚀 About Me  
-👋 Hi, I'm **Aditya**, a passionate **Software Developer** with expertise in:  
-- **Python, C, C++** | **Data Structures & Algorithms**  
-- **Machine Learning, Deep Learning, NLP**  
-- **Web Development (Flask, REST APIs, SQL, HTML, CSS, Bootstrap)**  
-- **Automation & Web Scraping (Selenium, BeautifulSoup, Requests)**  
-- **MLOps & Deployment (Docker, AWS, Azure, CI/CD, GitHub Actions)**  
-
-📚 **Currently learning:** **Generative AI with LangChain & HuggingFace**  
-🎯 **Career Goal:** Become a **Software Developer** at a top tech company  
+🚀 Data & AI Engineer | Databricks | Apache Spark | SQL | Python | Cloud Data Platforms
 
 ---
 
-## 📊 GitHub Stats  
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-kr86&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-kr86&layout=compact&theme=tokyonight)  
+## 🚀 About Me
+
+Hi, I'm **Aditya**, a Computer Science student passionate about building modern **Data & AI Platforms**.
+
+My focus is on designing scalable data pipelines, lakehouse architectures, analytics workflows, and machine learning infrastructure using industry-standard tools.
+
+### 🔹 Core Areas
+
+* Data Engineering
+* Analytics Engineering
+* Lakehouse Architecture
+* Data Warehousing
+* ETL / ELT Pipelines
+* Machine Learning Infrastructure
+* Cloud Data Platforms
+
+### 🛠️ Technologies
+
+* Databricks
+* Apache Spark
+* SQL
+* Python
+* Snowflake
+* Apache Airflow
+* Apache Kafka
+* AWS
+* Azure
+* Google Cloud Platform
+* PostgreSQL
+* Docker
+* Git & GitHub
+
+### 📚 Currently Learning
+
+* Advanced Apache Spark
+* Databricks Lakehouse Platform
+* Delta Lake
+* dbt
+* Data Orchestration with Airflow
+* Real-Time Data Engineering
+
+### 🎯 Career Goal
+
+To become a Data & AI Platform Engineer building scalable data systems that power analytics, machine learning, and intelligent applications.
 
 ---
 
-## 🔥 Skills  
-### **Programming & CS Fundamentals**  
-✔ Python, C, C++ | DSA | OOP | SQL  
+## 🔥 Technical Skills
 
-### **Web Development**  
-✔ Flask | REST APIs | PostgreSQL | HTML | CSS | Bootstrap  
+### Data Engineering
 
-### **Machine Learning & AI**  
-✔ Scikit-learn | TensorFlow | Pandas | NumPy | Seaborn | NLP  
+✔ Databricks
+✔ Apache Spark
+✔ SQL
+✔ ETL / ELT
+✔ Data Warehousing
+✔ Lakehouse Architecture
 
-### **Automation & Web Scraping**  
-✔ Selenium | BeautifulSoup | Requests  
+### Cloud & Platforms
 
-### **DevOps & Deployment**  
-✔ Docker | GitHub Actions | AWS | Azure | MLOps  
+✔ AWS
+✔ Azure
+✔ GCP
+✔ Snowflake
+
+### Data Infrastructure
+
+✔ Apache Airflow
+✔ Apache Kafka
+✔ PostgreSQL
+✔ Docker
+
+### Programming
+
+✔ Python
+✔ SQL
+✔ Git
+✔ GitHub
+
+### Data & AI
+
+✔ Pandas
+✔ NumPy
+✔ Machine Learning
+✔ ML Pipelines
 
 ---
 
-## 🏆 Certifications  
-🎖 **100 Days of Code: The Complete Python Pro Bootcamp** – Udemy  
-🎖 **Complete Data Science, ML, DL, NLP Bootcamp** – Udemy  
-🎖 **Public Speaking, Time Management** – Infosys Springboard  
-🎖 **Introduction to Cybersecurity** – Tech Mahindra  
+## 🏆 Certifications
+
+🎖 Microsoft Certified: Azure Data Scientist Associate
+
+🎖 Microsoft Certified: Azure AI Engineer Associate
+
+🎖 GitHub Foundations
+
+🎖 AWS AI Learning Programs
 
 ---
 
-## 📌 Featured Projects  
-🔹 **AI Chatbot** – NLP-powered chatbot with Flask & Hugging Face  
-🔹 **Job Scraper Bot** – Automated job search with Selenium & BeautifulSoup  
-🔹 **MLOps Pipeline** – End-to-end ML deployment using Docker & AWS  
-🔹 **E-commerce Website** – Full-stack web app with Flask & PostgreSQL  
+## 📌 Featured Projects
+
+### End-to-End Batch Data Pipeline
+
+Apache Airflow → Spark → Databricks → Snowflake
+
+### Real-Time Streaming Analytics
+
+Kafka → Spark Streaming → Databricks
+
+### Modern Lakehouse Architecture
+
+Bronze → Silver → Gold Data Platform
+
+### Data Quality & Observability
+
+Automated validation, monitoring, and alerting workflows
+
+### MLOps Pipeline
+
+Training, experiment tracking, deployment, and monitoring
 
 ---
 
-## 🌍 Connect With Me  
-🔗 **LinkedIn:** [linkedin.com/in/aditya-kr86](https://linkedin.com/in/aditya-kr86)  
-🔗 **GitHub:** [github.com/aditya-kr86](https://github.com/aditya-kr86)  
-🔗 **Portfolio:** [adityakr.me](https://adityakr.me)  
+## 🌍 Connect With Me
 
----
+🔗 **LinkedIn:** [linkedin.com/in/aditya-kr86](https://www.linkedin.com/in/aditya-kr86)
+
+🔗 **GitHub:** [github.com/aditya-kr86](https://github.com/aditya-kr86)
+
+🔗 **Portfolio:** [ankus.dev](https://ankus.dev)
+
+🔗 **Email:** [hi@ankus.dev](mailto:hi@ankus.dev)
+
