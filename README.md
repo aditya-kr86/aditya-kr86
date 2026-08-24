@@ -1,6 +1,6 @@
 # 💻 Aditya Kumar
 
-🚀 Data & AI Engineer | Databricks | Apache Spark | SQL | Python | Cloud Data Platforms
+🚀 Data & AI Engineer | Databricks Student Fellow | Apache Spark | SQL | Python | Cloud Data Platforms
 
 ---
 
